@@ -1,0 +1,5 @@
+ps -aux | grep lexi
+kill []
+kill -9 []
+
+nvidia-smi
